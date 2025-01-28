@@ -1,3 +1,3 @@
 This is Sample File1
 what is Git Merge, Let's learn
-
+thhis is for branch merge lesson
